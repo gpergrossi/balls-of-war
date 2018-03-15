@@ -13,7 +13,7 @@ pause
 Alternatively, the repository comes with a ```compile.bat``` and ```run.bat``` which you should be able to run on Windows if you have the JDK in you system path.
 
 ## Video ##
-[![Balls of War Video](./thumbnail.jpg)](https://www.youtube.com/watch?v=Ue8HUMNFBOA&t=54s)
+[![Balls of War Video](./thumbnail.png)](https://www.youtube.com/watch?v=Ue8HUMNFBOA&t=54s)
 
 ## Evolution of Balls of War
 
