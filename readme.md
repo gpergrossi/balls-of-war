@@ -42,7 +42,7 @@ that ended up being computationally heavy and didn't look as good as choose-the-
 
 ## Code Style Note ##
 
-This project is OLD. I made it in high school and I have since improved my programming abilities quite a bit. All things considered, it's pretty impressive though.
+This project is OLD. I made it in high school and I have since improved my programming abilities quite a bit. I'm still pretty happy with the results though.
 
 ## License ##
 
